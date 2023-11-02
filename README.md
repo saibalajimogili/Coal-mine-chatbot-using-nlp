@@ -1,2 +1,1 @@
-# Coal-mine-chatbot-using-nlp
-coal mine chatbot
+# SIH-Coal-Mine-Chatbot-Using-NLP
